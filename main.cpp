@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-        cout << "My name is Roger Chicas-Terrill\nAnd I LOVE CSCI 123F very much.\n";
+        cout << "My name is Roger\nAnd I LOVE CSCI 123F very much.\n";
 }
 
 /*
